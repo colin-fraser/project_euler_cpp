@@ -1,3 +1,0 @@
-C:/Users/colin/CLionProjects/project-euler-cpp/cmake-build-debug/CMakeFiles/project_euler_cpp.dir
-C:/Users/colin/CLionProjects/project-euler-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/colin/CLionProjects/project-euler-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
